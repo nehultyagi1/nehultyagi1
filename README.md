@@ -1,4 +1,9 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://blog.entheosweb.com/wp-content/uploads/2020/09/dark_mode_icons.jpg)">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 
 <!--
 **nehultyagi1/nehultyagi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
