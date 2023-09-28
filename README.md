@@ -4,7 +4,6 @@
 
 
 <!--
-
 <details> <!--<details open>-->
 <summary>My top THINGS-TO-RANK</summary>
 
