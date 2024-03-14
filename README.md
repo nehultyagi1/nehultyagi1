@@ -3,7 +3,7 @@
 > Just a learner 😅
 
 
-<!--
+
 <details> <!--<details open>-->
 <summary>My top THINGS-TO-RANK</summary>
 
@@ -11,6 +11,8 @@ YOUR TABLE
 
 </details>
 
+
+<!--
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://blog.entheosweb.com/wp-content/uploads/2020/09/dark_mode_icons.jpg">
