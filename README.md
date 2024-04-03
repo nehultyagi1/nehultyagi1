@@ -13,11 +13,7 @@
  
  [![Nehul's GitHub Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient_gradient)](https://github.com/nehultyagi1)
  [![Nehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&theme=ambient_gradient)](https://github.com/nehultyagi1)
-
-
-![Nehul's GitHub Stats](https://img.shields.io/twitter/follow/iamnehul?logo=x&style=for-the-badge)
- 
- </div>
+</div>
 
 <div align='center'>
  
