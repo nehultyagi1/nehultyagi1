@@ -6,18 +6,11 @@
 </div>
 
 
-<p align="center"> <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=nehultyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="nehultyagi1" /></a></p>
+<p align="center"> </p>
 
-
-<div align = "center">
- 
- <a herf="https://github.com/nehultyagi1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient_gradient" height="160" alt="GitHub Streak Stats"></a>
- <a herf="https://github.com/nehultyagi1"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&theme=ambient_gradient" height="160" alt="GitHub Stats"></a>
-</div>
+---
 
 <div align='center'>
-
- ---
  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-black?logo=python"></a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-black?logo=pandas"></a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-black?logo=mysql"></a>
@@ -29,15 +22,24 @@
 
 </div>
 
+<div align = "center">
+
+ ## Profile Stats:
+ <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=nehultyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="nehultyagi1" /></a>
+ 
+ <a herf="https://github.com/nehultyagi1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient_gradient" height="170" alt="GitHub Streak Stats"></a>
+ <a herf="https://github.com/nehultyagi1"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&theme=ambient_gradient" height="170" alt="GitHub Stats"></a>
+</div>
+
 
 <div align="center">
  
  ## Contact me through:
  <p align="center">
-  <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-fa937d?logo=reddit&style=for-the-badge" alt="Reddit logo" /></a>
-  <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-lightblue?logo=telegram&style=for-the-badge" alt="Telegram logo" /></a>
-  <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="Instagram logo" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="X logo" /></a>
+  <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-fa937d?logo=reddit&style=for-the-badge" alt="Reddit" /></a>
+  <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-lightblue?logo=telegram&style=for-the-badge" alt="Telegram" /></a>
+  <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="X" /></a>
  </p>
 </div>
 
