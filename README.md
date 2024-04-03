@@ -16,14 +16,17 @@
 </div>
 
 <div align='center'>
- 
-🌱 I’m currently learning: **Web Development**
- 
+
+ ---
  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-black?logo=python"></a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-black?logo=pandas"></a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-black?logo=mysql"></a>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-black?logo=html5"></a>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe_Photoshop-black?logo=adobephotoshop"></a>
+ 
+ ---
+ 🌱 I’m currently learning: **Web Development**
+
 </div>
 
 
@@ -31,10 +34,10 @@
  
  ## Contact me through:
  <p align="center">
-  <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-orange?logo=reddit&logoColor=white&style=for-the-badge" alt="u/nehultyagi1" /></a>
-  <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="@nehultyagi1" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="@iamnehul" /></a>
-  <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="@nehultyagi1" /></a>
+  <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-fa937d?logo=reddit&style=for-the-badge" alt="Reddit logo" /></a>
+  <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-lightblue?logo=telegram&style=for-the-badge" alt="Telegram logo" /></a>
+  <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="Instagram logo" /></a>
+  <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="X logo" /></a>
  </p>
 </div>
 
