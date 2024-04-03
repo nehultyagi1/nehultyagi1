@@ -1,8 +1,6 @@
-## About Me
-
 <div align="center">
  <h1>Hi 👋, I'm Nehul</h1>
- <h3>Trying to be better every day.</h3>
+ <h4>Trying to be better every day.</h4>
 </div>
 
 
