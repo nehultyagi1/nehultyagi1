@@ -11,8 +11,8 @@
 
 <div align = "center">
  
- [![Nehul's GitHub Streaks Stats](https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient_gradient)](https://github.com/nehultyagi1)
- [![Nehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&theme=ambient_gradient)](https://github.com/nehultyagi1)
+ <a herf="https://github.com/nehultyagi1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient_gradient" height="150" alt="GitHub Streak Stats"></a>
+ <a herf="https://github.com/nehultyagi1"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&theme=ambient_gradient" height="150" alt="GitHub Stats"></a>
 </div>
 
 <div align='center'>
@@ -31,8 +31,8 @@
  
  ## Contact me through:
  <p align="center">
-  <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-FF886E?logo=reddit&style=for-the-badge" alt="u/nehultyagi1" /></a>
-  <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-lightblue?logo=telegram&style=for-the-badge" alt="@nehultyagi1" /></a>
+  <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-orange?logo=reddit&logoColor=white&style=for-the-badge" alt="u/nehultyagi1" /></a>
+  <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="@nehultyagi1" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="@iamnehul" /></a>
   <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="@nehultyagi1" /></a>
  </p>
