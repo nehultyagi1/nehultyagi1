@@ -11,7 +11,7 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-black?logo=mysql"></a>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-black?logo=html5"></a>
  <img src="https://img.shields.io/badge/|-black">
- <a href="https://https://www.microsoft.com/en-in/windows?r=1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows_11-black?logo=windows"></a>
+ <a href="https//www.microsoft.com/en-in/windows?r=1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows_11-black?logo=windows"></a>
  <a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/macOS_Sonoma-black?logo=macos"></a>
  <a href="https://fedoraproject.org/workstation/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora_Workstation_39-black?logo=fedora"></a>
  <img src="https://img.shields.io/badge/|-black">
