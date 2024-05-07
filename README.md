@@ -5,17 +5,76 @@
 
 ---
 
+
+
 <div align='center'>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-black?logo=python"></a>
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-black?logo=pandas"></a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-black?logo=mysql"></a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-black?logo=html5"></a>
- <img src="https://img.shields.io/badge/|-black">
- <a href="https://www.microsoft.com/en/windows/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows_11-black?logo=windows"></a>
- <a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/macOS_Sonoma-black?logo=macos"></a>
- <a href="https://fedoraproject.org/workstation/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora_Workstation_39-black?logo=fedora"></a>
- <img src="https://img.shields.io/badge/|-black">
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe_Photoshop-black?logo=adobephotoshop"></a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0d1117?logo=python">
+   <img src="https://img.shields.io/badge/Python-white?logo=python">
+  </picture>
+ </a>
+ <a href=https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-0d1117?logo=pandas">
+   <img src="https://img.shields.io/badge/Pandas-white?logo=pandas">
+  </picture>
+ </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-0d1117?logo=mysql">
+   <img src="https://img.shields.io/badge/MySQL-white?logo=mysql">
+  </picture>
+ </a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-0d1117?logo=html5">
+   <img src="https://img.shields.io/badge/HTML5-white?logo=html5">
+  </picture>
+ </a>
+ <a target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/|-0d1117">
+   <img src="https://img.shields.io/badge/|-white">
+  </picture>
+ </a>
+ <a href="https://www.microsoft.com/en/windows/" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Windows_11-0d1117?logo=windows">
+   <img src="https://img.shields.io/badge/Windows_11-white?logo=windows">
+  </picture>
+ </a>
+ <a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/macOS_Sonoma-0d1117?logo=macos">
+   <img src="https://img.shields.io/badge/macOS_Sonoma-white?logo=macos">
+  </picture>
+ </a>
+ <a href="https://fedoraproject.org/workstation/" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Fedora_Workstation_39-0d1117?logo=fedora">
+   <img src="https://img.shields.io/badge/Fedora_Workstation_39-white?logo=fedora">
+  </picture>
+ </a>
+ <a target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/|-0d1117">
+   <img src="https://img.shields.io/badge/|-white">
+  </picture>
+ </a>
+ <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Adobe_Photoshop-0d1117?logo=adobephotoshop">
+   <img src="https://img.shields.io/badge/Adobe_Photoshop-white?logo=adobephotoshop">
+  </picture>
+ </a>
+
+ <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Adobe_Premiere_Pro-0d1117?logo=adobepremierepro">
+   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-white?logo=adobepremierepro">
+  </picture>
+ </a>
  
  ---
  🌱 I’m currently learning: **Web Development**
@@ -25,10 +84,10 @@
 <div align = "center">
 
  ## Profile Stats:
- <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=nehultyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="nehultyagi1" /></a>
- 
- <a href="https://github.com/nehultyagi1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient_gradient" height="170" alt="GitHub Streak Stats"></a>
- <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
+
+
+ <a href="https://github.com/nehultyagi1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient-gradient" height="170" alt="GitHub Streak Stats"></a>
+ <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=21601&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
 </div>
 
 
@@ -52,6 +111,17 @@
 <!--
 
 #IGNORE
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default">
+</picture>
+</a>
+
+
+
+
 
  <img src="https://img.shields.io/badge/|-black">
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe_Photoshop-black?logo=adobephotoshop"></a>
