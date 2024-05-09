@@ -64,14 +64,14 @@
  </a>
  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Adobe_Photoshop-0d1117?logo=adobephotoshop">
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Photoshop-0d1117?logo=adobephotoshop">
    <img src="https://img.shields.io/badge/Adobe_Photoshop-white?logo=adobephotoshop">
   </picture>
  </a>
 
  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Adobe_Premiere_Pro-0d1117?logo=adobepremierepro">
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Premiere_Pro-0d1117?logo=adobepremierepro">
    <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-white?logo=adobepremierepro">
   </picture>
  </a>
