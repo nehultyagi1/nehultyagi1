@@ -1,13 +1,9 @@
 <div align="center">
- <h1>Hi 👋, I'm Nehul</h1>
+ <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />, I'm Nehul</h1>
  <h4>Trying to be better every day.</h4>
-</div>
 
 ---
 
-
-
-<div align='center'>
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0d1117?logo=python">
@@ -68,7 +64,6 @@
    <img src="https://img.shields.io/badge/Adobe_Photoshop-white?logo=adobephotoshop">
   </picture>
  </a>
-
  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Premiere_Pro-0d1117?logo=adobepremierepro">
@@ -77,11 +72,8 @@
  </a>
  
  ---
- 🌱 I’m currently learning: **Web Development**
-
-</div>
-
-<div align = "center">
+ 
+  🌱 I’m currently learning: **Web Development**
 
  ## Profile Stats:
 
@@ -89,22 +81,14 @@
 
  <a href="https://github.com/nehultyagi1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient-gradient" height="170" alt="GitHub Streak Stats"></a>
  <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=27000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
-</div>
 
-
-<div align="center">
  
  ## Contact me through:
- <p align="center">
-  <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-fa937d?logo=reddit&style=for-the-badge" alt="Reddit" /></a>
-  <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-lightblue?logo=telegram&style=for-the-badge" alt="Telegram" /></a>
-  <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="X" /></a>
- </p>
-</div>
-
-<div align="center">
- 
+ <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-fa937d?logo=reddit&style=for-the-badge" alt="Reddit" /></a>
+ <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-lightblue?logo=telegram&style=for-the-badge" alt="Telegram" /></a>
+ <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
+ <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="X" /></a>
+  
 ## My Repositories
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nehultyagi1&repo=Intel-7260-WiFi-Bluetooth-Driver&theme=ambient_gradient)](https://github.com/nehultyagi1/Intel-7260-WiFi-Bluetooth-Driver)
 </div>
