@@ -80,7 +80,7 @@
  <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=nehultyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="nehultyagi1" /></a>
 
  <a href="https://github.com/nehultyagi1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient-gradient" height="170" alt="GitHub Streak Stats"></a>
- <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=24000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
+ <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=36000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
 
  
  ## Contact me through:
