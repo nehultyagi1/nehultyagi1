@@ -40,10 +40,10 @@
    <img src="https://img.shields.io/badge/Windows_11-white?logo=windows">
   </picture>
  </a>
- <a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer">
+ <a href="https://www.apple.com/macos/sequoia/" target="_blank" rel="noreferrer">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/macOS_Sonoma-0d1117?logo=macos">
-   <img src="https://img.shields.io/badge/macOS_Sonoma-white?logo=macos">
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/macOS_Sequoia-0d1117?logo=macos">
+   <img src="https://img.shields.io/badge/macOS_Sequoia-white?logo=macos">
   </picture>
  </a>
  <a href="https://fedoraproject.org/workstation/" target="_blank" rel="noreferrer">
@@ -78,8 +78,9 @@
  ## Profile Stats:
 
  <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=nehultyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="nehultyagi1" /></a>
-
- <a href="https://github.com/nehultyagi1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&theme=ambient-gradient" height="170" alt="GitHub Streak Stats"></a>
+ 
+<!--github-readme-streak-stats.herokuapp.com-->
+ <a href="https://github.com/nehultyagi1"><img src="https://streak-stats.demolab.com/?user=nehultyagi1&theme=ambient-gradient" height="170" alt="GitHub Streak Stats"></a>
  <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=36000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
 
  
