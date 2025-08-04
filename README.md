@@ -28,6 +28,7 @@
    <img src="https://img.shields.io/badge/HTML5-white?logo=html5">
   </picture>
  </a>
+
  <a target="_blank" rel="noreferrer">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/|-0d1117">
