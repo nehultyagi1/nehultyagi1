@@ -79,17 +79,24 @@
  ## Profile Stats:
 
  <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=nehultyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="nehultyagi1" /></a>
-<!-- Y HYPE -->
- 
- 
 <!--
+Shields:
+https://shields.io/badges
+
+Icons (Shields):
+https://simpleicons.org/
+
+Profile Views:
+https://yhype.me/
+
+GitHub Streak Stats:
 https://streak-stats.demolab.com/demo/
 https://github-readme-streak-stats.herokuapp.com/demo/
 
-https://github-stats-extended.vercel.app/
-
-
- <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=36000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
+GitHub Stats Extended:
+https://github-stats-extended.vercel.app/frontend
+GitHub Stats OLD:
+https://github-readme-stats.vercel.app
 -->
  <a href="https://github.com/nehultyagi1"><img src="https://streak-stats.demolab.com/?user=nehultyagi1&theme=ambient-gradient" height="170" alt="GitHub Streak Stats"></a>
  <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-stats-extended.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=36000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
@@ -104,13 +111,20 @@ https://github-stats-extended.vercel.app/
 
 
 
-
 <!--
 
-
+## Contact me through:
 <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-fa937d?logo=reddit&style=for-the-badge" alt="Reddit" /></a>
 <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="X" /></a>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamnehul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnhul" height="30" width="40" /></a>
+<a href="https://instagram.com/nehultyagi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehultyagi1" height="30" width="40" /></a>
+</p>
 
 
 
@@ -131,14 +145,12 @@ https://github-stats-extended.vercel.app/
  <img src="https://img.shields.io/badge/|-black">
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe_Photoshop-black?logo=adobephotoshop"></a>
 
+
 transparent&text_color=ffffff
 > Just a learner 😅
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamnehul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnhul" height="30" width="40" /></a>
-<a href="https://instagram.com/nehultyagi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehultyagi1" height="30" width="40" /></a>
-</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -155,6 +167,12 @@ transparent&text_color=ffffff
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehultyagi1&" alt="nehultyagi1" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehultyagi1" alt="nehultyagi1" /></a> </p>
+
+
+
+
+
+
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
