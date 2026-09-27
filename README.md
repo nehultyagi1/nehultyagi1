@@ -74,28 +74,46 @@
  
  ---
  
-  🌱 I’m currently learning: **Web Development**
+  🌱 I’m currently re-learning: **C++, HTML, CSS, JS**
 
  ## Profile Stats:
 
  <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=nehultyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="nehultyagi1" /></a>
+<!-- Y HYPE -->
  
-<!--github-readme-streak-stats.herokuapp.com-->
- <a href="https://github.com/nehultyagi1"><img src="https://streak-stats.demolab.com/?user=nehultyagi1&theme=ambient-gradient" height="170" alt="GitHub Streak Stats"></a>
- <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=36000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
+ 
+<!--
+https://streak-stats.demolab.com/demo/
+https://github-readme-streak-stats.herokuapp.com/demo/
 
+https://github-stats-extended.vercel.app/
+
+
+ <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=36000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
+-->
+ <a href="https://github.com/nehultyagi1"><img src="https://streak-stats.demolab.com/?user=nehultyagi1&theme=ambient-gradient" height="170" alt="GitHub Streak Stats"></a>
+ <a href="https://github.com/nehultyagi1" target="_blank" rel="noreferrer"><img src="https://github-stats-extended.vercel.app/api?username=nehultyagi1&show_icons=true&locale=en&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=36000&theme=ambient_gradient" height="170" alt="GitHub Stats" /></a>
  
  ## Contact me through:
- <a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-fa937d?logo=reddit&style=for-the-badge" alt="Reddit" /></a>
  <a href="https://t.me/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-lightblue?logo=telegram&style=for-the-badge" alt="Telegram" /></a>
- <a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
- <a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="X" /></a>
+ 
   
 ## My Repositories
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nehultyagi1&repo=Intel-7260-WiFi-Bluetooth-Driver&theme=ambient_gradient)](https://github.com/nehultyagi1/Intel-7260-WiFi-Bluetooth-Driver)
+ [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=nehultyagi1&repo=Intel-7260-WiFi-Bluetooth-Driver&theme=ambient_gradient)](https://github.com/nehultyagi1/Intel-7260-WiFi-Bluetooth-Driver)
 </div>
 
+
+
+
 <!--
+
+
+<a href="https://reddit.com/u/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/u/nehultyagi1-fa937d?logo=reddit&style=for-the-badge" alt="Reddit" /></a>
+<a href="https://instagram.com/nehultyagi1" target="blank"><img src="https://img.shields.io/badge/@nehultyagi1-pink?logo=instagram&style=for-the-badge" alt="Instagram" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=iamnehul" target="blank"><img src="https://img.shields.io/badge/@iamnehul-grey?logo=x&style=for-the-badge" alt="X" /></a>
+
+
+
 
 #IGNORE
 
